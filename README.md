@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I first learnt how to code through self taught online courses on Udemy and Youtube, before attending University studying software engineering at Bournemouth University, I enjoy front end development and plan to create innovative projects to tackle the sustainability issues we face on technology.
+I first learnt how to code through self taught online courses on Udemy and Youtube, before attending University studying software engineering at Bournemouth University, I enjoy front end development and plan to create innovative projects to tackle the sustainability issues we face in technology.
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [jojofyffe1@gmail.com](mailto:jojofyffe1@gmail.com )
