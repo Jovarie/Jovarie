@@ -5,7 +5,6 @@ Software Engineering Student @ Bournemouth University
 -----------------
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [jojofyffe1@gmail.com](mailto:jojofyffe1@gmail.com )
 * 🧠  I'm learning Front end web development, developing my knowledge of JAVA, Python, JavaScript, Cloud Computing,AI & machine learning
 * 🤝  I'm open to collaborating on interesting and innovative projects which promote sustainability
 * ⚡  sticks and stones may break my bones but nothing confuses me more than when it comes to centreing a div..
