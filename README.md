@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jovarie
 ===============================================================================================================================
 
-Software Engineer
+Software Engineering Student @ Bournemouth University
 -----------------
 
 I first learnt how to code through self taught online courses on Udemy and Youtube, before attending University studying software engineering at Bournemouth University, I enjoy front end development and plan to create innovative projects to tackle the sustainability issues we face in technology.
